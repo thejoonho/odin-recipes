@@ -1,5 +1,5 @@
 # odin-recipes
-<h1>Project: Recipes</h1>
+<strong>Project: Recipes</strong>
 
 <strong>Website:</Strong> <a href="thejoonho.github.io/odin-recipes">thejoonho.github.io/odin-recipes</a>
 
