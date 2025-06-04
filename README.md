@@ -1,6 +1,6 @@
 # odin-recipes
-Project: Recipes
+<h1>Project: Recipes</h1>
 
-Website: thejoonho.github.io/odin-recipes
+<strong>Website:</Strong> <a href="thejoonho.github.io/odin-recipes">thejoonho.github.io/odin-recipes</a>
 
-Description: This project is part of <a href="https://www.theodinproject.com/lessons/foundations-recipes"><em>The Odin Project</em></a>.
+<strong>Description:</strong> This project is part of <a href="https://www.theodinproject.com/lessons/foundations-recipes"><em>The Odin Project</em></a>
